@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/eddie_every" target="blank"><img src="https://img.shields.io/twitter/follow/eddie_every?logo=twitter&style=for-the-badge" alt="eddie_every" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **More and MORE**
 
 - 💬 Ask me about **web development ,MERN**
 
